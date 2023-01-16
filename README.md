@@ -1,10 +1,4 @@
 
-<p> I study operations research, </br> currently sharpening my skills in Front-end development,</br>
-i'm also a game dev enthusiast and game dev section chief at GDSC USTHB </p> 
-
-How to reach me **rhl.amina1@gmail.com** 
-
-</br>
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amina-rahal&show_icons=true&locale=en" alt="amina-rahal" /></p>
